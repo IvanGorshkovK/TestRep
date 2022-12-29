@@ -19,10 +19,10 @@ public class BinarySearch {
     }
 
     public static void main(String[] args) {
-        int [] arr={8,17,35,49,65,69,73,89,92,95,99};
+        int [] arr={8,17,35,49,65,69,73,89,92,95,120};
 
-        binarySearch(arr,89);
-        System.out.println(binarySearch(arr,20));
+
+        binarySearch(arr,120);
 
     }
 }
